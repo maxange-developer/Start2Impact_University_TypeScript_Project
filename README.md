@@ -17,9 +17,7 @@ Project created with:
 
 To run this project local:
 * git clone https://github.com/maxange-developer/Start2Impact_University_TypeScript_Project.git
-* tsc app.ts
-* live server
-* f12 to see the console
+* (terminal) tsc app.ts
 
 # Collaboration :facepunch:
 
